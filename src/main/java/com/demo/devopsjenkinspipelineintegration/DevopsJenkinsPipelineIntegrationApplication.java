@@ -11,7 +11,7 @@ public class DevopsJenkinsPipelineIntegrationApplication {
 
 	@GetMapping("/message")
 	public String message(){
-		return "Welcome to Devops Jenkins Pipeline Integration";
+		return "Welcome to Devops Jenkins Pipeline Integration!!";
 	}
 
 	public static void main(String[] args) {
